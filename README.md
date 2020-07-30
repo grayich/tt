@@ -1,5 +1,4 @@
-# tt
-простая напоминалка по таймеру
- <img src="screen_tt.png>
- 
+
+Простая напоминалка по таймеру
+
 ![screenshot of sample](screen_tt.png)
